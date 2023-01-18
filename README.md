@@ -1,5 +1,5 @@
 # BankNote_Authentication
-To detect fake bank notes using Decision Tree, through four features: Variance, Skewness, Curtosis, and Entropy.                                                                                                                                                                                                                                                                                                                                                                                                                
+To detect fake Banknotes using Decision Tree, through four features: Variance, Skewness, Curtosis, and Entropy.                                                                                                                                                                                                                                                                                                                                                                                                                
 # Experiment1:
 
 Using 25% of the samples for training and the rest for testing:                                                                                                            
